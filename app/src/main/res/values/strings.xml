@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Android fundamentals 01.3</string>
+    <string name="article_subtitle">Text and scrolling views</string>
+    <string name="article_text">https://developer.android.com/codelabs/android-training-text-and-scrolling-views. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a odio accumsan, pretium nibh luctus, tempus sapien. Vestibulum mattis egestas leo, eu mattis tellus dictum a. Suspendisse potenti. Ut sed viverra sem, ut dapibus lacus. Duis pretium volutpat dignissim. Vivamus id ultrices neque. Pellentesque eget libero at lorem rhoncus egestas nec a ipsum. Cras et orci mi. Suspendisse aliquet sem nec nisl tristique, id euismod felis hendrerit. Pellentesque lacinia mollis arcu, eget luctus lacus ornare nec. Pellentesque ut malesuada enim. Praesent volutpat lectus eu maximus fringilla. Integer nec laoreet nibh.
+
+Aliquam nec aliquet turpis, eu aliquam eros. In efficitur nulla et justo rhoncus luctus. Phasellus eu urna gravida, congue ligula in, efficitur lorem. Cras rhoncus ultrices lacus nec laoreet. Donec nec velit ac orci vestibulum faucibus sit amet sed libero. Phasellus congue sit amet ante sit amet vulputate. Pellentesque nec condimentum nunc. Sed bibendum, ipsum nec ultricies iaculis, mauris urna porta lacus, euismod sagittis felis tellus in nunc. Mauris orci mauris, venenatis sit amet sapien non, ultrices hendrerit eros. Praesent scelerisque consectetur efficitur. Cras non sapien ut urna consequat efficitur id eget quam.
+
+In nisl lacus, feugiat euismod accumsan vel, pretium a sem. Vivamus dapibus accumsan hendrerit. Aliquam pharetra, mi ut porta dapibus, odio ex tincidunt enim, vel consequat nunc leo malesuada quam. Quisque sed lorem nec mauris semper tempus. Donec bibendum est orci, eget aliquam mauris rutrum sed. Suspendisse potenti. Nulla eu semper risus. Maecenas viverra, risus eget dapibus tincidunt, orci nisi vulputate ex, et efficitur quam urna eget enim. Ut vel venenatis massa. Morbi rhoncus placerat ligula quis lacinia.
+
+Suspendisse potenti. Fusce posuere mi eget pulvinar aliquet. Sed eu leo dictum, interdum velit et, porttitor felis. Ut mi mauris, vestibulum tempus pharetra sit amet, varius quis urna. Pellentesque ac blandit nunc, nec commodo elit. Nam congue at risus vitae dictum. Ut id lobortis lorem, eu feugiat mauris. In vestibulum sodales maximus. Maecenas ex metus, semper eget varius ut, luctus quis nisl. Maecenas maximus diam vel massa pulvinar faucibus.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique sapien nec velit placerat scelerisque. Duis quis purus vitae sem porta imperdiet ut a nulla. Ut dapibus commodo metus. Donec volutpat cursus tristique. Proin vel lobortis odio, in ullamcorper tortor. Praesent ac turpis accumsan, viverra eros a, iaculis ipsum. Pellentesque ut tempus est.</string>
+    <string name="add_comment_label">ADD COMMENT</string>
+</resources>
